@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --text-color: #fafafa;
+  --stroke: #4d4d4d;
+}
+
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("./../public/fonts/Chivo_Mono/ChivoMono-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kode Mono";
+  src: url("./../public/fonts/Kode_Mono/KodeMono-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./../public/fonts/Montserrat/Montserrat-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("./../public/fonts/Vazirmatn/Vazirmatn-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,84 @@
+.header{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 0em;
+}
+
+.icon {
+    font-family: "Montserrat", system-ui, -apple-system;
+    font-size: 23px;
+    font-weight: 900;
+}
+
+.menu {
+    font-family: "Chivo_Mono", system-ui, -apple-system;
+    font-weight: 200;
+    font-size: 18px;
+    border: 1px solid var(--stroke);
+    border-radius: 30px;
+    padding:  0.8em 0.4em 0.8em 1.4em;
+}
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.menu ul > li:not(:first-child) {
+    margin-left: 3em;
+}
+
+.menu ul > li:last-child{
+    margin-left: 2em;
+}
+
+.menu ul > li > a{
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.importantItem {
+    background-color: #ddd;
+    color: #333 !important;
+    font-weight: 400;
+    padding: .7em 1em;
+    border-radius: 30px;
+    font-size: 16px;
+    -webkit-box-shadow: 0px 0px 50px 11px rgba(255, 255, 255, 0.106); 
+    box-shadow: 0px 0px 50px 11px rgba(255,255,255,0.106);
+}
+
+.lang {
+    font-family: "Chivo_Mono", system-ui, -apple-system;
+    font-weight: 400;
+    font-size: 17px;
+    border: 1px solid var(--stroke);
+    border-radius: 20px;
+    padding: 0.8em;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    flex-direction: column;
+}
+
+.langMain {
+    display: flex;
+}
+
+.lang .langDropDown {
+    width: 100%;
+}
+
+.langDropDown ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    list-style-type: none;
+}
+
+.langDropDown li {
+    margin: .6em 0em;
+}

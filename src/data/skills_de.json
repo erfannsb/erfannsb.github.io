@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Ich kann sprechen in",
+    "items": [
+      {
+        "icon": "Icons/IR.png",
+        "name": "Persisch",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/US.png",
+        "name": "Englisch",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/DE.png",
+        "name": "Deutsch",
+        "skill": "Intermediate"
+      }
+    ]
+  },
+  {
+    "name": "Meine Ausbildung",
+    "items": [
+      {
+        "icon": "Icons/Guilan_Logo.png",
+        "name": "Bachelor-Abschluss in Informatik - Universität Guilan",
+        "skill": "none"
+      }
+    ]
+  },
+  {
+    "name": "Meine Spezialitäten in Informatik",
+    "items": [
+      {
+        "name": "Softwareentwicklung und Ingenieurwesen",
+        "skill": "Expert"
+      },
+      {
+        "name": "Webentwicklung (Full Stack)",
+        "skill": "Expert"
+      },
+      {
+        "name": "UI/UX Design",
+        "skill": "Expert"
+      },
+      {
+        "name": "Web Scraping und Datenextraktion",
+        "skill": "Expert"
+      },
+      {
+        "name": "Datenbankverwaltung",
+        "skill": "Expert"
+      },
+      {
+        "name": "Paralleles Rechnen",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "GPU-Programmierung",
+        "skill": "Beginner"
+      },
+      {
+        "name": "Blockchain und Kryptografie",
+        "skill": "Beginner"
+      },
+      {
+        "name": "Künstliche Intelligenz und maschinelles Lernen",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "Programmiersprachen, mit denen ich gearbeitet habe",
+    "items": [
+      {
+        "icon": "Icons/javascript-plain.png",
+        "name": "JavaScript",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/typescript-plain.png",
+        "name": "TypeScript",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/python-original.png",
+        "name": "Python",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/rust-plain.png",
+        "name": "Rust",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/mysql-original.png",
+        "name": "SQL",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/java-original.png",
+        "name": "Java",
+        "skill": "Competent"
+      },
+      {
+        "icon": "Icons/c-original.png",
+        "name": "C",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/cplusplus-original.png",
+        "name": "C++",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/matlab-original.png",
+        "name": "Matlab",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/csharp-original.png",
+        "name": "C#",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "Frameworks und Bibliotheken, die ich kenne",
+    "items": [
+      {
+        "name": "React.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Next.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Framer Motion",
+        "skill": "Expert"
+      },
+      {
+        "name": "Anime.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Express.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "MySQL",
+        "skill": "Expert"
+      },
+      {
+        "name": "Sqlx",
+        "skill": "Expert"
+      },
+      {
+        "name": "Tauri",
+        "skill": "Expert"
+      },
+      {
+        "name": "Electron.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Tailwind CSS",
+        "skill": "Expert"
+      },
+      {
+        "name": "Selenium",
+        "skill": "Expert"
+      },
+      {
+        "name": "React Native",
+        "skill": "Competent"
+      },
+      {
+        "name": "Rocket",
+        "skill": "Competent"
+      },
+      {
+        "name": "Numpy",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Pandas",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "CUDA",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Web3.py",
+        "skill": "Beginner"
+      },
+      {
+        "name": "TensorFlow",
+        "skill": "Beginner"
+      },
+      {
+        "name": "NLTK",
+        "skill": "Beginner"
+      },
+      {
+        "name": "OpenCV",
+        "skill": "Beginner"
+      },
+      {
+        "name": "PyTorch",
+        "skill": "Beginner"
+      },
+      {
+        "name": "Transformers",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "Forschungspapiere",
+    "items": [
+      {
+        "name": "In Bearbeitung ...",
+        "skill": "none"
+      }
+    ]
+  },
+  {
+    "name": "Andere Dinge, die ich handhaben kann",
+    "items": [
+      {
+        "name": "Linux/GNU",
+        "skill": "Expert"
+      },
+      {
+        "name": "Figma",
+        "skill": "Expert"
+      },
+      {
+        "name": "Photoshop",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Illustrator",
+        "skill": "Intermediate"
+      }
+    ]
+  }
+]

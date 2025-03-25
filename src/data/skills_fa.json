@@ -1,0 +1,255 @@
+[
+  {
+    "name": "زبان هایی که حرف میزنم",
+    "items": [
+      {
+        "icon": "Icons/IR.png",
+        "name": "فارسی",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/US.png",
+        "name": "انگلیسی",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/DE.png",
+        "name": "آلمانی",
+        "skill": "Intermediate"
+      }
+    ]
+  },
+  {
+    "name": "تحصیلات من",
+    "items": [
+      {
+        "icon": "Icons/Guilan_Logo.png",
+        "name": " کارشناسی علوم کامپیوتر - دانشگاه گیلان",
+        "skill": "none"
+      }
+    ]
+  },
+  {
+    "name": "تخصص های من در علوم کامپیوتر",
+    "items": [
+      {
+        "name": "توسعه نرم افزار و مهندسی",
+        "skill": "Expert"
+      },
+      {
+        "name": "توسعه وب (فول استک)",
+        "skill": "Expert"
+      },
+      {
+        "name": "طراحی UI/UX",
+        "skill": "Expert"
+      },
+      {
+        "name": "جمع آوری داده و استخراج اطلاعات از وب",
+        "skill": "Expert"
+      },
+      {
+        "name": "مدیریت پایگاه داده",
+        "skill": "Expert"
+      },
+      {
+        "name": "محاسبات موازی",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "برنامه نویسی GPU",
+        "skill": "Beginner"
+      },
+      {
+        "name": "بلوک چین و رمزنگاری",
+        "skill": "Beginner"
+      },
+      {
+        "name": "هوش مصنوعی و یادگیری ماشین",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "زبان های برنامه نویسی که با آنها کار کرده ام",
+    "items": [
+      {
+        "icon": "Icons/javascript-plain.png",
+        "name": "JavaScript",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/typescript-plain.png",
+        "name": "TypeScript",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/python-original.png",
+        "name": "Python",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/rust-plain.png",
+        "name": "Rust",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/mysql-original.png",
+        "name": "SQL",
+        "skill": "Expert"
+      },
+      {
+        "icon": "Icons/java-original.png",
+        "name": "Java",
+        "skill": "Competent"
+      },
+      {
+        "icon": "Icons/c-original.png",
+        "name": "C",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/cplusplus-original.png",
+        "name": "C++",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/matlab-original.png",
+        "name": "Matlab",
+        "skill": "Intermediate"
+      },
+      {
+        "icon": "Icons/csharp-original.png",
+        "name": "C#",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "فریم ورک ها و کتابخانه هایی که می شناسم",
+    "items": [
+      {
+        "name": "React.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Next.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Framer Motion",
+        "skill": "Expert"
+      },
+      {
+        "name": "Anime.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Express.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "MySQL",
+        "skill": "Expert"
+      },
+      {
+        "name": "Sqlx",
+        "skill": "Expert"
+      },
+      {
+        "name": "Tauri",
+        "skill": "Expert"
+      },
+      {
+        "name": "Electron.js",
+        "skill": "Expert"
+      },
+      {
+        "name": "Tauri",
+        "skill": "Expert"
+      },
+      {
+        "name": "Tailwind CSS",
+        "skill": "Expert"
+      },
+      {
+        "name": "Selenium",
+        "skill": "Expert"
+      },
+      {
+        "name": "React Native",
+        "skill": "Competent"
+      },
+      {
+        "name": "Rocket",
+        "skill": "Competent"
+      },
+      {
+        "name": "Numpy",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Pandas",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "CUDA",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Web3.py",
+        "skill": "Beginner"
+      },
+      {
+        "name": "TensorFlow",
+        "skill": "Beginner"
+      },
+      {
+        "name": "NLTK",
+        "skill": "Beginner"
+      },
+      {
+        "name": "OpenCV",
+        "skill": "Beginner"
+      },
+      {
+        "name": "PyTorch",
+        "skill": "Beginner"
+      },
+      {
+        "name": "Transformers",
+        "skill": "Beginner"
+      }
+    ]
+  },
+  {
+    "name": "مقالات تحقیقاتی",
+    "items": [
+      {
+        "name": "در حال انجام ...",
+        "skill": "none"
+      }
+    ]
+  },
+  {
+    "name": "چیزهای دیگری که می توانم انجام دهم",
+    "items": [
+      {
+        "name": "Linux/GNU",
+        "skill": "Expert"
+      },
+      {
+        "name": "Figma",
+        "skill": "Expert"
+      },
+      {
+        "name": "Photoshop",
+        "skill": "Intermediate"
+      },
+      {
+        "name": "Illustrator",
+        "skill": "Intermediate"
+      }
+    ]
+  }
+]
